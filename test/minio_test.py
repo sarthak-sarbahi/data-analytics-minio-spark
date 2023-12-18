@@ -1,5 +1,5 @@
-!pip install minio
-!pip install s3fs
+# !pip install minio
+# !pip install s3fs
 
 from minio import Minio
 import pandas as pd

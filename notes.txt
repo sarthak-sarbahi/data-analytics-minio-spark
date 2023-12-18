@@ -15,3 +15,4 @@ Extra:
 - docker ps
 - Maven repository: https://mvnrepository.com/
 - Remove docker containers running: `docker-compose down` (This only deletes the containers but not the images)
+- API data fields: https://gitlab.com/restcountries/restcountries/-/blob/master/FIELDS.md
