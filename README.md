@@ -4,7 +4,7 @@
     - Prepare docker-compose.yml
     - Run `docker-compose up -d` in root directory
     - Access minIO web portal using http://localhost:9001
-    - Create bucket using web portal
+    - Create bucket using web portal: `mybucket`
     - Access JupyterLab using URL in logs (can find in Docker Desktop)
 
 ### Extra
