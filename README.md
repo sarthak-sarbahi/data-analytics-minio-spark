@@ -7,6 +7,9 @@
     - Create bucket using web portal: `mybucket`
     - Access JupyterLab using URL in logs (can find in Docker Desktop)
 
+### Scripts
+- Analysis notebook: `country_analysis.ipynb`
+
 ### Extra
 - Download JAR files (Using **PySpark 3.5.0** and **Hadoop 3.3.4**)
     > wget -O hadoop-aws-3.3.4.jar https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-aws/3.3.4/hadoop-aws-3.3.4.jar
@@ -17,6 +20,3 @@
 - Maven repository: https://mvnrepository.com/
 - Remove docker containers running: `docker-compose down` (This only deletes the containers but not the images)
 - API data fields: https://gitlab.com/restcountries/restcountries/-/blob/master/FIELDS.md
-
-### Scripts
-- Analysis notebook: `country_analysis.ipynb`
